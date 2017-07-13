@@ -4,4 +4,4 @@
 - [x] mark some items in todo.txt as done
 - [x] check in a new version
 - [ ] ask at least one question about this Git thing 
-- [x] make another commit
+- [x ] make another commit

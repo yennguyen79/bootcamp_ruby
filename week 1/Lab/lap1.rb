@@ -14,7 +14,7 @@
 # end
 # puts  the_middle(singers)
 # hello
-
+#quy
 rating = {"My Tam" => 9, "Ho Ngoc Ha" => 5, "Hoang Yen" =>4}
 
 puts " rating is #{rating}"

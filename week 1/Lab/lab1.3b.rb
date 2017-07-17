@@ -10,9 +10,9 @@ class Item
        @done 
  end
 end
-item=Item.new(item)
+  item=Item.new(item)
   
-item.done=  true
-item.done= false
+  item.done=  true
+  item.done= false
 
 puts item.done 

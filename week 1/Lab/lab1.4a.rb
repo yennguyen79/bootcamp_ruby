@@ -29,6 +29,3 @@ class Item
        
   end
 end
-
-def self.to_able(items_array)
-    Terminal::Table.new rows: items_array 
